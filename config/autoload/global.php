@@ -5,7 +5,6 @@ return [
     ],
     'db' => [
         'adapters' => [
-            'openserver' => [],
         ],
     ],
 ];
